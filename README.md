@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Agustín
+# 🦈 ¡Hola! Soy Agustín
 
 Soy un desarrollador web en formación con conocimientos en **Frontend y Backend**. Me enfoco en crear soluciones eficientes y escalables, manteniendo buenas prácticas de desarrollo.
 
