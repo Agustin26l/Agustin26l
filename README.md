@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Agustín
 
-<!--
-**Agustin26l/agustin26l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web en formación con conocimientos en **Frontend y Backend**. Me enfoco en crear soluciones eficientes y escalables, manteniendo buenas prácticas de desarrollo.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+### 🎨 Frontend:
+- Angular, React
+- HTML, CSS, JavaScript, Sass, Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Backend:
+- PHP, Laravel, Node.js con Express
+
+### 🗄 Bases de Datos:
+- MySQL, phpMyAdmin
+
+## 📂 Proyectos Destacados
+🔹 _Actualmente en desarrollo..._
+
+_(Más proyectos en camino... 🚀)_
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](por_agregar)  
+📱 WhatsApp: _Por agregar_  
+🌐 Portafolio: _En desarrollo_
+
+---
+💡 _Siempre en búsqueda de nuevos retos y oportunidades._
+
